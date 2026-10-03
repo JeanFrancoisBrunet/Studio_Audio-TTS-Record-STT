@@ -1,0 +1,12 @@
+{
+  "tts_speed": 105,
+  "tts_pitch": 50,
+  "tts_volume": 85,
+  "tts_pause": true,
+  "tts_lang": "Français",
+  "tts_voice": "[MBROLA] mb-fr7",
+  "stt_model": "medium",
+  "stt_lang": "Automatique",
+  "rec_format": "WAV",
+  "rec_bitrate": "192k"
+}
